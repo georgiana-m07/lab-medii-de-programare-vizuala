@@ -1,0 +1,11 @@
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\bin\Debug\produse.accdb
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\bin\Debug\lab14-bilet-ex.exe.config
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\bin\Debug\lab14-bilet-ex.exe
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\bin\Debug\lab14-bilet-ex.pdb
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\obj\Debug\lab14-bilet-ex.csproj.AssemblyReference.cache
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\obj\Debug\lab14_bilet_ex.Form1.resources
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\obj\Debug\lab14_bilet_ex.Properties.Resources.resources
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\obj\Debug\lab14-bilet-ex.csproj.GenerateResource.cache
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\obj\Debug\lab14-bilet-ex.csproj.CoreCompileInputs.cache
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\obj\Debug\lab14-bilet-ex.exe
+C:\Users\gm10131832\Downloads\lab14-bilet-ex\lab14-bilet-ex\obj\Debug\lab14-bilet-ex.pdb
